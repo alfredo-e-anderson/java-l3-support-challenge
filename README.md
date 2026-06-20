@@ -47,6 +47,7 @@ Te pedimos que incluyas en la raíz del repositorio un archivo **`NOTES.md`** qu
 
 1. Realiza los cambios necesarios directamente sobre el código base utilizando tu IDE preferida.
 2. Asegúrate de que el proyecto compila correctamente y que los endpoints funcionan según lo esperado.
-3. Para la entrega, enviar un archivo comprimido `.zip` con el proyecto (excluyendo las carpetas `/target`, `.idea`, etc.).
+3. Para la entrega, enviar un archivo comprimido `.zip` con el proyecto.
+   *(Importante: excluye carpetas pesadas de compilación o configuración local como `/target` o `.idea`, pero **conserva la carpeta oculta `.git`** si realizaste commits locales. Esto nos permite entender tu proceso de trabajo y cómo agrupas lógicamente tus cambios y refactorizaciones).*
 
 ¡Mucho éxito en el desafío!
